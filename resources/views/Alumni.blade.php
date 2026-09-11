@@ -1,5 +1,5 @@
 <div>
-    <!-- Walk as if you are kissing the Earth with your feet. - Thich Nhat Hanh -->
+    <!-- Simplicity is an acquired taste. - Katharine Gerould -->
     <table align="center" border="1" width="60%">
 
         <tr>
@@ -37,4 +37,7 @@
             <td>-</td>
         </tr>
     </table>
+    <form action="/biodata" method="GET">
+        <input type="submit" value="Lihat Biodata Diri">
+    </form>
 </div>
